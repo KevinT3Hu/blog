@@ -1,0 +1,26 @@
+title: "苹果派的万事屋"
+description: "Anything from someone"
+url: localhost:4000
+baseurl: ""
+author: "kht"
+paginate: 5
+paginate_path: "/blog/page:num/"
+
+# Build settings
+theme: jekyll-theme-mdui
+markdown: kramdown
+plugins:
+  - jekyll-sitemap
+  - jekyll-paginate
+  - jekyll-feed
+
+exclude:
+  - package.json
+  - node_modules
+  - gulpfile.js
+  - Gemfile
+  - Gemfile.lock
+  - jekyll-theme-mdui.gemspec
+  - LICENSE.txt
+  - README.md
+  - vendor

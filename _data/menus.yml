@@ -1,0 +1,14 @@
+- name: ホーム
+  url: /
+  icon: home
+- name: カテゴリ
+  url: /pages/category.html
+  icon: "&#xe53b;"
+- name: タグ
+  url: /pages/tags.html
+  icon: "&#xe893;"
+- name: エディタ
+  url: /pages/editor.html
+  icon: "brush"
+- name: navSearch
+  switch: true
