@@ -7,7 +7,7 @@ paginate: 5
 paginate_path: "/blog/page:num/"
 
 # Build settings
-remote_theme: jekyll-theme-mdui
+theme: jekyll-theme-mdui
 markdown: kramdown
 plugins:
   - jekyll-sitemap
