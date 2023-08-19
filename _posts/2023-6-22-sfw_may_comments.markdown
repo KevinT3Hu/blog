@@ -4,7 +4,7 @@ title: 《科幻世界（译文版）》五月简评
 date: 2023-06-22 02:30:00 +0800
 categories: sfw
 tags: 科幻世界 短评
-img: https://i.imgloc.com/2023/06/22/VIA0Yt.th.png
+img: https://s1.ax1x.com/2023/08/19/pP3gsOO.png
 describe: 期末考试完了，狠狠地看。
 ---
 
@@ -12,7 +12,7 @@ describe: 期末考试完了，狠狠地看。
 
 ---
 
-{% centerimage https://i.imgloc.com/2023/06/22/VIA0Yt.png %}
+{% centerimage https://s1.ax1x.com/2023/08/19/pP3gsOO.png %}
 
 ## 《导弹差距》 {% rating 4 %}
 

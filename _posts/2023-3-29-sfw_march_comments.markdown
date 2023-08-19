@@ -4,7 +4,7 @@ title: 《科幻世界（译文版）》三月简评
 date: 2023-03-29 14:31:44 +0800
 categories: sfw
 tags: 科幻世界 短评
-img: https://i.328888.xyz/2023/03/29/iWMKZ5.th.png
+img: https://s1.ax1x.com/2023/03/29/ppcDjqU.png
 describe: 总之没有什么特别值得看的。
 ---
 
@@ -12,7 +12,7 @@ describe: 总之没有什么特别值得看的。
 
 ---
 
-{% centerimage https://i.328888.xyz/2023/03/29/iWMKZ5.png %}
+{% centerimage https://s1.ax1x.com/2023/03/29/ppcDjqU.png %}
 
 ## 《怨灵卡斯帕》 {% rating 3 %}
 

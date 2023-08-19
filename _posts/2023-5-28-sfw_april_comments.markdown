@@ -4,7 +4,7 @@ title: 《科幻世界（译文版）》四月简评
 date: 2023-05-28 00:29:44 +0800
 categories: sfw
 tags: 科幻世界 短评
-img: https://i.imgloc.com/2023/05/28/VnExmt.th.png
+img: https://s1.ax1x.com/2023/08/19/pP3gr6K.png
 describe: 鸽了一个月终于写出来了。
 ---
 
@@ -12,7 +12,7 @@ describe: 鸽了一个月终于写出来了。
 
 ---
 
-{% centerimage https://i.imgloc.com/2023/05/28/VnExmt.png %}
+{% centerimage https://s1.ax1x.com/2023/08/19/pP3gr6K.png %}
 
 ## 《神的游戏》 {% rating 4 %}
 

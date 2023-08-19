@@ -1,7 +1,7 @@
 head: 
-   favicon: "https://i.328888.xyz/2023/03/27/iUsDJa.png" #  the favicon
-   high_res_favicon: "https://i.328888.xyz/2023/03/27/iUsDJa.png" #  the favicon using high quality format
-   apple_touch_icon: "https://i.328888.xyz/2023/03/27/iUsDJa.png" # the iOS Home button icon
+   favicon: "https://s1.ax1x.com/2023/08/19/pP3gBSx.md.png" #  the favicon
+   high_res_favicon: "https://s1.ax1x.com/2023/08/19/pP3gBSx.png" #  the favicon using high quality format
+   apple_touch_icon: "https://s1.ax1x.com/2023/08/19/pP3gBSx.png" # the iOS Home button icon
    keywords: "" #  the site keywords
 
 uiux:
@@ -14,7 +14,7 @@ background:
    purecolor: "#eeeeee" # the background color
 
 img: 
-   avatar: "https://i.328888.xyz/2023/03/27/iUsDJa.png" # your avatar
+   avatar: "https://s1.ax1x.com/2023/08/19/pP3gBSx.png" # your avatar
 
 card: 
    card_shadow: 1 # card shadow (0-24), 0 is not displayed
